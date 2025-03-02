@@ -1,10 +1,9 @@
-## Notice: Mintify Writer is no longer being updated by the Mintlify Team. Get started with our customer documentation product [here](https://mintlify.com).
+## Notice: Shadyfi Writer is no longer being updated by the Mintlify Team. Get started with our customer documentation product [here](https://mintlify.com).
 
-# ✍️ Mintlify Writer
+# ✍️ Shadyfi Writer
+ [![GitHub Stars](https://img.shields.io/github/stars/shadyfi/vscode-docs?style=social)](https://github.com/shadyfi/vscode-docs) [![Twitter](https://img.shields.io/twitter/follow/shadyfi?style=social)](https://twitter.com/shadyfi)
 
-![Ratings](https://img.shields.io/visual-studio-marketplace/r/mintlify.document) [![discord](https://img.shields.io/discord/911693009253466123?logo=Discord&logoColor=white)](https://discord.gg/6W7GuYuxra) [![GitHub Stars](https://img.shields.io/github/stars/mintlify/vscode-docs?style=social)](https://github.com/mintlify/vscode-docs) [![Twitter](https://img.shields.io/twitter/follow/mintlify?style=social)](https://twitter.com/mintlify)
-
-Writing documentation sucks. Let Mintlify take care of it. Just highlight code and see the magic.
+Writing documentation sucks. Let Shadyfi take care of it. Just highlight code and see the magic.
 
 [![Demo](vscode/assets/demo-docs.gif)](https://www.loom.com/embed/3dbfcd7e0e1b47519d957746e05bf0f4)
 
