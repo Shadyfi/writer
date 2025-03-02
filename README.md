@@ -51,7 +51,7 @@ We never store your code, but your code does leave your machine.
 
 ### More information
 
-[Website](https://mintlify.com/)
-[Twitter](https://twitter.com/mintlify)
+[Website](https://shadyfi.com/)
+[Twitter](https://twitter.com/shadyfi)
 
-_Built with 💚 by the Mintlify team_
+_Built with 💚 by the Shadyfi team_
